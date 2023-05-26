@@ -1,8 +1,8 @@
 import mysql.connector
 
 mysql_table = {
-    'user': 'root',
-    'password': '2105393',
+    'user': 'input user name',
+    'password': 'input password',
     'host': 'localhost',
     'database': 'siteconnchecker'
 }
