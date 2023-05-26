@@ -5,8 +5,8 @@ import time
 from datetime import datetime
 
 mysql_config = {
-    'user': 'root',
-    'password': '2105393',
+    'user': 'input username',
+    'password': 'input password',
     'host': 'localhost',
     'database': 'siteconnchecker'
 }
